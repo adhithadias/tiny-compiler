@@ -1,6 +1,8 @@
 # Teeny Tiny Compiler
 
-A compiler writtn in python
+A compiler written in python
 
 
 ## Reference
+
+1. http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html
